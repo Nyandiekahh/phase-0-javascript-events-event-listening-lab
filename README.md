@@ -132,3 +132,4 @@ page to load the new code in `index.js`.
 - [MDN - Web Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 [callback]: https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
+
